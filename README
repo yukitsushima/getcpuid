@@ -1,2 +1,8 @@
 This program can get CPU bender name and brand string.
 This program uses inline assembler. Assembry code is wrriten in AT&T format.
+
+Compile:
+> gcc cpuid.c -o cpuid
+
+Use:
+> ./cpuid
